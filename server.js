@@ -1,6 +1,9 @@
 import express from "express";
+
 import router from "./routes/movie.routes.js";
+
 import bodyParser from "body-parser";
+
 import mongoose from "mongoose";
 
 const app = express();
