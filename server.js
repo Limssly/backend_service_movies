@@ -1,5 +1,5 @@
 import express from "express";
-import router from "./routes/movies.route.js";
+import router from "./routes/movie.routes.js";
 import bodyParser from "body-parser";
 import mongoose from "mongoose";
 
